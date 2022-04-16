@@ -57,11 +57,11 @@ a:hover {
 
   div.main_contents {
       width: 70%;
-      margin: 40px auto;
+      margin: 40px 30%;
   }
 
   div.left-column {
-      width: 50%;
+      width: 30%;
       float: left;
       text-align: left;
       background-color: white;
