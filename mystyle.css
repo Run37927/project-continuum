@@ -10,6 +10,7 @@ nav {
 
 a {
     text-decoration: none;
+    color: #4169E1 !important;
 }
 a:link {
   color: #404040;
@@ -106,3 +107,22 @@ a:hover {
 
 
 
+/* quiz.html */
+
+#quiz-content{
+    margin:0 25%;
+}
+#quiz-list{
+    /* border: 1px solid #404040; */
+    width: 100%;
+    border: 0.25px solid lightgrey;
+}
+#quiz-list > tr,td,th {
+    border: 0.25px solid lightgrey;
+    margin: 0;
+    font-size:  10px;
+    padding: 10px;
+}
+th > a{
+    
+}
