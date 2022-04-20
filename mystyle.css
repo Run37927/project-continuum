@@ -30,6 +30,7 @@ a:hover {
 
 #top_banner {
     text-align: center;
+    margin:0, 25%;
 }
 
 #navbar {
@@ -43,7 +44,8 @@ a:hover {
 }
 
 .options {
-    padding: 8px;
+    padding: 12px;
+    /* margin: 0, 10px; */
 }
 
   .bi {
@@ -57,16 +59,16 @@ a:hover {
 
 
   div.main_contents {
-      width: 70%;
-      margin: 40px 30%;
+      /* width: 70%; */
+      margin: 40px 22%;
   }
 
   div.left-column {
-      width: 30%;
+      width: 60%;
       float: left;
       text-align: left;
       background-color: white;
-      margin-left: 20px;
+      /* margin-left: 5%; */
       padding: 17px;
       box-shadow: 0 0 .5px -10px;
 
@@ -74,8 +76,9 @@ a:hover {
 
   div.right-column {
       float: left;
+      width: 25%;
       background-color: white;
-      margin-left: 50px;
+      margin-left: 5%;
       padding: 17px;
       box-shadow: 0 0 .5px -10px;
   }
