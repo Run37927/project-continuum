@@ -138,6 +138,21 @@ a:hover {
     border: 0px;
     border-radius: 5px;
     text-align: center;
+    font-size: medium;
+    cursor: pointer;
+}
+
+#question-container{
+    margin: 10px 120px;
+}
+
+p,
+label {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input {
+    margin: .4rem;
 }
 
 
